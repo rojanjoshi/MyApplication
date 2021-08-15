@@ -67,5 +67,13 @@
         android:background="@drawable/rounded_button"
         android:onClick="btn_signupForm"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_button"
+        android:onClick="btn_signupForm3"
+        android:text="Register2"
+        android:textSize="20sp" />
 
 </LinearLayout>
